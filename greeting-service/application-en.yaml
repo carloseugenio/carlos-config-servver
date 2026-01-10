@@ -4,7 +4,7 @@ spring:
     application:
         name: greeting-service
 greeting-service:
-  greeting: "Hello"
+  greeting: "Hello from server"
   default-value: "World"
 management:
   endpoints:
